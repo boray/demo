@@ -8,7 +8,7 @@
     { "id": 1, "bool": false},
     { "id": 2, "bool": true }
   ],
-  "profile": {
-    "name": "typicode"
+  "hikmo": {
+    "bool": false
   }
 }
